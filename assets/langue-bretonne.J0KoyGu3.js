@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./entry.TBsV0POQ.js";const c={},o={class:"text-h4 text-md-h3"};function r(s,a){return n(),t("h1",o,"Langue bretonne")}const f=e(c,[["render",r]]);export{f as default};

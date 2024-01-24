@@ -1,0 +1,1 @@
+import{_ as t,n,w as c,q as o,o as a,a as s}from"./entry.UwDx1YdH.js";const r={},_=s("h1",{class:"text-h3 text-md-h2 text-center"},"Page d'accueil",-1);function d(i,l){const e=o("v-container");return a(),n(e,null,{default:c(()=>[_]),_:1})}const f=t(r,[["render",d]]);export{f as default};
