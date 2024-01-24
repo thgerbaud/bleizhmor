@@ -119,6 +119,7 @@ export default {
 
 .nav-menu {
     position: absolute;
+    border-top: solid 3px rgb(var(--v-theme-secondary));
 }
 
 a {
