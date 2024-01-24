@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./entry.K-Do4_sW.js";const c={},o={class:"text-h4 text-md-h3"};function r(n,_){return s(),e("h1",o,"Activités des troupes")}const i=t(c,[["render",r]]);export{i as default};
