@@ -15,6 +15,9 @@ export default defineNuxtConfig({
     },
   },
   app: {
+    head: {
+      title: "Bleizhmor"
+    },
     baseURL: "/bleizhmor/",
     buildAssetsDir: 'assets'
   }
